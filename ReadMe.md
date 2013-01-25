@@ -1,0 +1,3 @@
+This console app is scheduled to check the weather and send me a text message before I leave in the mornings if it is going to rain. It uses the weather underground hourly API to check each hour of the current day's forcast and the Twilio API to send a text message.
+
+Soon this app will be a hosted web application but for now its just a simple console app that I have hosted on Amazon EC2 instance scheduled. Contact me with questions.
