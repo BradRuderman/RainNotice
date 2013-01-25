@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\bin\Debug\RainNotice.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\bin\Debug\RainNotice.exe
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\bin\Debug\RainNotice.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\obj\Debug\RainNotice.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\obj\Debug\RainNotice.exe
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\obj\Debug\RainNotice.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\bin\Debug\RestSharp.dll
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\bin\Debug\Twilio.Api.dll
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\bin\Debug\RestSharp.xml
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\bin\Debug\Twilio.Api.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\RainNotice\RainNotice\bin\Debug\Twilio.Api.xml
